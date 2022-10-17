@@ -2,7 +2,7 @@
 /**
  * main - main block
  * Description: Use 'putchar' to print alphabets in big and small letter.
- * Return - 0
+ * Return - 0 this proves the program ran successfully
  */
 int main(void)
 {
